@@ -14,6 +14,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### `React packages installation guide`
+* Axios ( npm install axios)
+* Material UI ( npm install @mui/material @emotion/react @emotion/styled )
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
